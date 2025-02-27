@@ -57,7 +57,8 @@ Para a execução do projeto, adotou-se uma abordagem estruturada que abrangeu a
 - Definição das Funcionalidades do Firmware: Foram estabelecidas as funcionalidades essenciais do sistema, como a leitura e conversão dos sinais dos sensores, a navegação interativa pelo menu via display OLED, e a implementação dos mecanismos de alerta (alarmes, alertas por sensores e acionamento SOS).
 
 ## :bar_chart:Teste de Validação e Resultados do Projeto
-
+Os testes de validação ocorrem por meio do simulado Wokwi integrado por meio de uma extensão ao editor de texto VScode, que após os devidos testes, foram implementados na placa BitDogLab por meio da conexão USB.
+Os resultados foram satisfatórios com base nos objetivos propostos no início do projeto, em qual o sistema opera de forma assíncrona entre os submenus, os valores dos sensores entram em modo de alerta em valores críticos, os indicadores visuais e sonoros funcionam adequadamente e a IHM é simples e intuitiva.
 
 ## 🧮 Simulação do Projeto
 
